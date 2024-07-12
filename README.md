@@ -13,6 +13,9 @@ The sales strategy chosen by sending multiple unsolicited emails is irritating a
 ### How often is this list updated?
 This list is maintained by volunteers, no agreements have been made as to how often domains will be added to the list. Typically, a domain is added within a few days of receiving a spam email in one of the monitored mailboxes.
 
+## How can I block these spamming domains in Exchange Online?
+The PowerShell script **blockSpamDomains.ps1** can be used for this. It will automatically download the latest list from this GitHub Repository.
+
 ## Domains
 - allegiancetechnology.co.uk
 - codaintelligence.com
