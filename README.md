@@ -8,7 +8,7 @@ There are various mailboxes that are monitored. When someone sends unsolicited e
 Good question... Uhm... Next question please :-)
 
 ### Why are you publishing this list?
-The sales strategy you have chosen by sending multiple unsolicited emails is irritating and undesirable. To help organizations proactively prevent spam emails according to such sales strategies, this list is publicly accessible.
+The sales strategy chosen by sending multiple unsolicited emails is irritating and undesirable. To help organizations proactively prevent spam emails according to such sales strategies, this list is publicly accessible.
 
 ### How often is this list updated?
 This list is maintained by volunteers, no agreements have been made as to how often domains will be added to the list. Typically, a domain is added within a few days of receiving a spam email in one of the monitored mailboxes.
