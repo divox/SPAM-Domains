@@ -25,6 +25,7 @@ The PowerShell script **blockSpamDomains.ps1** can be used for this. It will aut
 - discoverkulacompany.work
 - elevateit-studio.com
 - geniteam.live
+- getlbrtyanimatedvids.icu
 - inovartech.co
 - jiggrdevelopent.com
 - joinjoinkula.biz
