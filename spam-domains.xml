@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <spamDomains>
-	<domain0>allegiancetechnology.co.uk</domain0>
-	<domain1>codaintelligence.com</domain1>
-	<domain2>digitalimpact.nl</domain2>
-	<domain3>discoverkulacompany.work</domain3>
-	<domain4>elevateit-studio.com</domain4>
-	<domain5>geniteam.live</domain5>
-	<domain6>getlbrtyanimatedvids.icu</domain6>
-	<domain7>inovartech.co</domain7>
-	<domain8>jiggrdevelopent.com</domain8>
-	<domain9>joinjoinkula.biz</domain9>
-	<domain10>meliuscyber.business</domain10>
-	<domain11>mindfire-solution.com</domain11>
-	<domain12>newxel.co</domain12>
-	<domain13>powergatesoftware.tech</domain13>
-	<domain14>prosperoeventsmail.com</domain14>
-	<domain15>solvefy.co</domain15>
-	<domain16>theappcreater.com</domain16>
-	<domain17>theknowledgeacademy.com</domain17>
-	<domain18>thevictorymagazine.net</domain18>
-	<domain19>velocitymena.ae</domain19>
-	<domain20>zepko-protection.com</domain20>
+	<domain>allegiancetechnology.co.uk</domain>
+	<domain>codaintelligence.com</domain>
+	<domain>digitalimpact.nl</domain>
+	<domain>discoverkulacompany.work</domain>
+	<domain>elevateit-studio.com</domain>
+	<domain>geniteam.live</domain>
+	<domain>getlbrtyanimatedvids.icu</domain>
+	<domain>inovartech.co</domain>
+	<domain>jiggrdevelopent.com</domain>
+	<domain>joinjoinkula.biz</domain>
+	<domain>meliuscyber.business</domain>
+	<domain>mindfire-solution.com</domain>
+	<domain>newxel.co</domain>
+	<domain>powergatesoftware.tech</domain>
+	<domain>prosperoeventsmail.com</domain>
+	<domain>solvefy.co</domain>
+	<domain>theappcreater.com</domain>
+	<domain>theknowledgeacademy.com</domain>
+	<domain>thevictorymagazine.net</domain>
+	<domain>velocitymena.ae</domain>
+	<domain>zepko-protection.com</domain>
 </spamDomains>
